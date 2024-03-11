@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://endesco.github.io/sitemap.txt
